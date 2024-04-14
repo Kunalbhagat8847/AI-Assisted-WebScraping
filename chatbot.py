@@ -29,7 +29,7 @@ nltk.download('wordnet')
 
 embeddings_dir = os.path.join("embeddings")
 os.makedirs(embeddings_dir, exist_ok=True)
-api_key="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"
+api_key="Enter api key"
 
 
 def preprocess_text(text):
