@@ -169,7 +169,6 @@ if __name__ == '__main__':
 
     # Create conversation chain
     chain = create_chain(db)
-
     # Initialize chat history
     chat_history = []
 
